@@ -1,0 +1,895 @@
+/* xx/ part start */
+@media (min-width: 1400px){
+    .people_left_bton {
+        transform: translate(-84px,-50%);
+    }
+    .people_right_bton {
+        transform: translate(19px,-50%);
+    }
+}
+
+/* xl part start */
+@media (min-width: 1200px) and (max-width: 1399.99px){
+    .point_content h5 {
+        font-size: 33px;
+    }
+    /* point part end */
+
+    .do_box {
+        height: 405px;
+    }
+    /* do part end */
+
+    .create_left_text h3 {
+        font-size: 29px;
+    }
+    /* create part end */
+
+    .people_left_bton {
+        transform: translate(-74px,-50%);
+    }
+    .people_right_bton {
+        transform: translate(11px,-50%);
+    }
+    /* people part end */
+}
+
+/* lg part start */
+@media (min-width: 992px) and (max-width: 1199.99px){
+    .nav-item {
+        font-size: 16px;
+        margin: 0px 16px;
+    }
+    .nav_bton .button a {
+        font-size: 16px;
+    }
+    /* nav part end */
+
+    .banner_color {
+        padding-top: 190px;
+        padding-bottom: 178px;
+    }
+    .banner_content h1 {
+        font-size: 78px;
+    }
+    .banner_content p {
+        font-size: 20px;
+        padding: 0 100px;
+        margin-bottom: 20px;
+    }
+    .banner_bton a {
+        padding: 18px 36px;
+        font-size: 18px;
+    }
+    /* banner partv end */
+
+    #point {
+        padding-top: 170px;
+        padding-bottom: 168px;
+    }
+    .point_content h4 {
+        font-size: 60px;
+    }
+    .point_content h5 {
+        font-size: 26px;
+    }
+    /* point part end */
+
+    .choose_circle {
+        height: 22px;
+        width: 22px;
+    }
+    .choose_circle::after {
+        height: 22px;
+        width: 22px;
+    }
+    .choose_ml_box:hover {
+        padding: 22px 0;
+        margin-bottom: 20px;
+    }
+    .choose_ml_text p {
+        font-size: 16px;
+    }
+    .choose_mr p {
+        padding-right: 0;
+        margin-bottom: 34px;
+    }
+    /* choose part end */
+
+    .do_hadding_content p {
+        padding-right: 0;
+    }
+    .do_box {
+        padding-top: 32px;
+    }
+    .do_box_content1 {
+        padding: 0 16px;
+    }
+    .do_box_content h4 {
+        margin-top: 26px;
+        font-size: 25px;
+        margin-bottom: 18px;
+    }
+    .do_box_content p {
+        font-size: 16px;
+        padding: 0 22px;
+        margin-bottom: 15px;
+    }
+    /* do part end */
+
+    .create_left_text h3 {
+        font-size: 24px;
+    }
+    .create_left_text p {
+        font-size: 14px;
+        padding-right: 10px;
+    }
+    /* create part end */
+
+    .people_content p {
+        padding: 0 100px;
+    }
+    .people_left_bton {
+        transform: translate(-60px,-50%);
+        width: 54px;
+        height: 54px;
+        line-height: 54px;
+    }
+    .people_right_bton {
+        transform: translate(7px,-50%);
+        width: 54px;
+        height: 54px;
+        line-height: 54px;
+    }
+    /* people part end */
+
+    .like_right_hedder ul a {
+        font-size: 15px;
+    }
+    .like_right_content p {
+        line-height: 50px;
+    }
+}
+
+/* md part start */
+@media (min-width:768px) and (max-width:991.99px){
+    .navbar {
+        background-color: rgb(22, 12, 109);
+        position: static;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .nav-item{
+        margin: 0 auto !important;
+    }
+    .nav_bton .button{
+        text-align: center;
+    }
+    .nav_bton .button a {
+        padding: 10px 20px;
+        display: inline-block;
+    }
+    /* nav part end */
+
+    /* banner part start */
+    .banner_color {
+        padding-top: 120px;
+        padding-bottom: 120px;
+    }
+    .banner_content h1 {
+        font-size: 62px;
+        line-height: 75px;
+        margin-bottom: 27px;
+    }
+    .banner_content p {
+        font-size: 18px;
+        line-height: 39px;
+        padding: 0;
+        margin-bottom: 32px;
+    }
+    .banner_bton a {
+        padding: 18px 30px;
+    }
+    /* banner part end */
+    
+    /* point part start */
+    #point {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .point_content::after {
+        display: none;
+    }
+    .point_content h4 {
+        font-size: 44px;
+        margin-bottom: 15px;
+    }
+    .point_content h5 {
+        font-size: 30px;
+        margin-bottom: 20px;
+    }
+    /* point part end */
+
+    /* choose part start */
+    #choose {
+        padding-bottom: 74px;
+    }
+    .choose_circle {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .choose_ml_box:hover {
+        padding: 0;
+        margin-bottom: 11px;
+        padding-top: 27px;
+    }
+    .choose_ml_text p {
+        font-size: 17px;
+        line-height: 30px;
+    }
+    .choose_mr h3 {
+        font-size: 40px;
+        margin-top: 40px;
+    }
+    .choose_mr p {
+        font-size: 18px;
+        line-height: 34px;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    /* choose part end */
+    /* do part start */
+    .do_hadding_content h2 {
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+    .do_hadding_content p {
+        font-size: 18px;
+        line-height: 28px;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .do_box {
+        padding-top: 40px;
+        height: 341px;
+    }
+    .do_box_content h4 {
+        font-size: 20px;
+        margin-bottom: 12px;
+        margin-top: 20px;
+    }
+    .do_box_content p {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 0 15px;
+        margin-bottom: 20px !important;
+    }
+    /* do part end */
+
+    /* create part start */
+    .create_hedder h2 {
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+    .create_hedder p {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0;
+    }
+    .create_left {
+        text-align: center;
+    }
+    .create_left_text h3 {
+        font-size: 30px;
+        margin-bottom: 18px;
+        margin-top: 18px;
+    }
+    .create_left_text p {
+        font-size: 18px;
+        line-height: 30px;
+        padding-right: 0;
+    }
+    /* create part end */
+
+    /* plan part start */
+    .plan_hedder h2 {
+        font-size: 40px;
+    }
+    .plan_box {
+        height: 435px;
+        padding-top: 30px;
+    }
+    .plan_box > h5 {
+        font-size: 26px;
+        margin-bottom: 18px;
+    }
+    .plan_box .plan_box_img {
+        height: 150px;
+    }
+    .rate h6 {
+        font-size: 18px;
+    }
+    .rate h5 {
+        font-size: 40px;
+    }
+    .plan_box > p {
+        font-size: 16px;
+        padding-bottom: 16px;
+    }
+    /* plan part end */
+    /* people part start */
+    #people {
+        padding: 28px 0;
+    }
+    .people_hedder h2 {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .people_wrapper {
+        padding-top: 50px;
+        padding-bottom: 30px;
+        margin: 0px 5px;
+    }
+    .people_content p {
+        font-size: 18px;
+        line-height: 30px;
+        padding: 0 15px;
+        margin-bottom: 24px;
+    }
+    .people_img {
+        width: 100px;
+        height: 100px;
+        left: 50%;
+        transform: translate(-50%,-54%);
+    }
+    .people_footer h5 {
+        font-size: 26px;
+    }
+    .people_footer p {
+        font-size: 16px;
+        line-height: 0;
+        margin-top: 24px;
+    }
+    /* people part end */
+    /* like part start */
+    .like_hedder h2 {
+        font-size: 40px;
+    }
+    .like_right_hedder ul {
+        justify-content: space-between;
+        column-gap: 0;
+    }
+    .like_right_hedder ul a {
+        font-size: 18px;
+    }
+    .like_right_content p {
+        font-size: 34px;
+        line-height: 41px;
+    }
+    /* like part end */
+
+    /* footer part start */
+    .footer_left_content p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+    .footer_right_hedder h6 {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .footer_right_content li {
+        margin-bottom: 17px;
+    }
+    .footer_right_content a {
+        font-size: 14px;
+    }
+    .copyright p {
+        font-size: 13px;
+    }
+    /* footer part end */
+}
+
+/* sm part start */
+@media (min-width:576px) and (max-width:767.99px){
+    .navbar {
+        background-color: rgb(22, 12, 109);
+        position: static;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .nav-item{
+        margin: 0 auto !important;
+    }
+    .nav_bton .button{
+        text-align: center;
+    }
+    .nav_bton .button a {
+        padding: 10px 20px;
+        display: inline-block;
+    }
+    /* nav part end */
+
+    /* banner part start */
+    .banner_color {
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    .banner_content h1 {
+        font-size: 37px;
+        line-height: 50px;
+        margin-bottom: 16px;
+    }
+    .banner_content p {
+        font-size: 15px;
+        line-height: 34px;
+        padding: 0;
+        margin-bottom: 20px;
+    }
+    .banner_bton a {
+        padding: 18px 30px;
+    }
+    /* banner part end */
+    
+    /* point part start */
+    #point {
+        padding-top: 84px;
+        padding-bottom: 84px;
+    }
+    .point_content::after {
+        display: none;
+    }
+    .point_content h4 {
+        font-size: 40px;
+        margin-bottom: 11px;
+    }
+    .point_content h5 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    /* point part end */
+
+    /* choose part start */
+    #choose {
+        padding-bottom: 74px;
+    }
+    .choose_circle {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .choose_ml_box:hover {
+        padding: 0;
+        margin-bottom: 11px;
+        padding-top: 27px;
+    }
+    .choose_ml_text p {
+        font-family: var(--paprica-font);
+        text-transform: capitalize;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 22px;
+        color: #726E9E;
+    }
+    .choose_mr h3 {
+        font-size: 34px;
+        margin-top: 44px;
+    }
+    .choose_mr p {
+        font-size: 17px;
+        line-height: 30px;
+        padding-right: 0;
+        margin-bottom: 26px;
+    }
+    /* choose part end */
+    /* do part start */
+    .do_hadding_content h2 {
+        font-size: 34px;
+        margin-bottom: 18px;
+    }
+    .do_hadding_content p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .do_box {
+        padding-top: 40px;
+        height: 341px;
+    }
+    .do_box_content h4 {
+        font-size: 20px;
+        margin-bottom: 12px;
+        margin-top: 20px;
+    }
+    .do_box_content p {
+        font-size: 14px;
+        line-height: 25px;
+        padding: 0 15px;
+        margin-bottom: 20px !important;
+    }
+    /* do part end */
+
+    /* create part start */
+    .create_hedder h2 {
+        font-size: 30px;
+        margin-bottom: 18px;
+    }
+    .create_hedder p {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0;
+    }
+    .create_left {
+        text-align: center;
+    }
+    .create_left_text h3 {
+        font-size: 26px;
+        margin-bottom: 18px;
+        margin-top: 18px;
+    }
+    .create_left_text p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-right: 0;
+    }
+    /* create part end */
+
+    /* plan part start */
+    .plan_hedder h2 {
+        font-size: 36px;
+    }
+    .plan_box {
+        height: 435px;
+        padding-top: 30px;
+    }
+    .plan_box > h5 {
+        font-size: 26px;
+        margin-bottom: 18px;
+    }
+    .plan_box .plan_box_img {
+        height: 150px;
+    }
+    .rate h6 {
+        font-size: 18px;
+    }
+    .rate h5 {
+        font-size: 40px;
+    }
+    .plan_box > p {
+        font-size: 16px;
+        padding-bottom: 16px;
+    }
+    /* plan part end */
+    /* people part start */
+    #people {
+        padding: 28px 0;
+    }
+    .people_hedder h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .people_wrapper {
+        padding-top: 50px;
+        padding-bottom: 30px;
+        margin: 0px 5px;
+    }
+    .people_content p {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 15px;
+        margin-bottom: 24px;
+    }
+    .people_img {
+        width: 100px;
+        height: 100px;
+        left: 50%;
+        transform: translate(-50%,-54%);
+    }
+    .people_footer h5 {
+        font-size: 20px;
+    }
+    .people_footer p {
+        font-size: 14px;
+        line-height: 0;
+        margin-top: 21px;
+    }
+    /* people part end */
+    /* like part start */
+    .like_hedder h2 {
+        font-size: 30px;
+    }
+    .like_right_hedder ul {
+        justify-content: space-between;
+        column-gap: 0;
+    }
+    .like_right_hedder ul a {
+        font-size: 18px;
+    }
+    .like_right_content p {
+        font-size: 30px;
+        line-height: 41px;
+    }
+    /* like part end */
+
+    /* footer part start */
+    .footer_left_content p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+    .footer_right_hedder h6 {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .footer_right_content li {
+        margin-bottom: 17px;
+    }
+    .footer_right_content a {
+        font-size: 14px;
+    }
+    .copyright p {
+        font-size: 13px;
+    }
+    /* footer part end */
+}
+
+/* xs divice start */
+
+@media (max-width: 575.99px){
+    /* nav part start */
+    .navbar {
+        background-color: rgb(22, 12, 109);
+        position: static;
+    }
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+    .navbar-toggler i{
+        color: #fff;
+    }
+    .nav-item{
+        margin: 0 auto !important;
+    }
+    .nav_bton .button{
+        text-align: center;
+    }
+    .nav_bton .button a {
+        padding: 10px 20px;
+        display: inline-block;
+    }
+    /* nav part end */
+
+    /* banner part start */
+    .banner_color {
+        padding-top: 80px;
+        padding-bottom: 88px;
+    }
+    .banner_content h1 {
+        font-size: 30px;
+        line-height: 44px;
+        margin-bottom: 14px;
+    }
+    .banner_content p {
+        font-size: 14px;
+        line-height: 30px;
+        padding: 0;
+        margin-bottom: 14px;
+    }
+    .banner_bton a {
+        padding: 10px 20px;
+        font-size: 15px;
+        margin: 0;
+    }
+    /* banner part end */
+    
+    /* point part start */
+    #point {
+        padding-top: 84px;
+        padding-bottom: 84px;
+    }
+    .point_content::after {
+        display: none;
+    }
+    .point_content h4 {
+        font-size: 40px;
+        margin-bottom: 11px;
+    }
+    .point_content h5 {
+        font-size: 28px;
+        margin-bottom: 20px;
+    }
+    /* point part end */
+
+    /* choose part start */
+    #choose {
+        padding-bottom: 74px;
+    }
+    .choose_circle {
+        margin-top: 0;
+        margin-left: 0;
+    }
+    .choose_ml_box:hover {
+        padding: 0;
+        margin-bottom: 0;
+        padding-top: 12px;
+    }
+    .choose_ml_text p {
+        font-family: var(--paprica-font);
+        text-transform: capitalize;
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 22px;
+        color: #726E9E;
+    }
+    .choose_mr h3 {
+        font-size: 30px;
+        margin-top: 30px;
+    }
+    .choose_mr p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-right: 0;
+        margin-bottom: 24px;
+    }
+    /* choose part end */
+    /* do part start */
+    .do_hadding_content h2 {
+        font-size: 30px;
+        margin-bottom: 18px;
+    }
+    .do_hadding_content p {
+        font-size: 16px;
+        line-height: 28px;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .do_box {
+        padding-top: 40px;
+        height: 341px;
+    }
+    .do_box_content h4 {
+        font-size: 25px;
+        margin-bottom: 15px;
+    }
+    .do_box_content p {
+        font-size: 15px;
+        line-height: 26px;
+        padding: 0 15px;
+        margin-bottom: 20px !important;
+    }
+    /* do part end */
+
+    /* create part start */
+    .create_hedder h2 {
+        font-size: 26px;
+        margin-bottom: 18px;
+    }
+    .create_hedder p {
+        font-size: 16px;
+        line-height: 26px;
+        padding: 0;
+    }
+    .create_left {
+        text-align: center;
+    }
+    .create_left_text h3 {
+        font-size: 26px;
+        margin-bottom: 18px;
+        margin-top: 18px;
+    }
+    .create_left_text p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-right: 0;
+    }
+    /* create part end */
+
+    /* plan part start */
+    .plan_hedder h2 {
+        font-size: 26px;
+    }
+    .plan_box {
+        height: 435px;
+        padding-top: 30px;
+    }
+    .plan_box > h5 {
+        font-size: 26px;
+        margin-bottom: 18px;
+    }
+    .plan_box .plan_box_img {
+        height: 150px;
+    }
+    .rate h6 {
+        font-size: 18px;
+    }
+    .rate h5 {
+        font-size: 40px;
+    }
+    .plan_box > p {
+        font-size: 16px;
+        padding-bottom: 16px;
+    }
+    /* plan part end */
+    /* people part start */
+    #people {
+        padding: 28px 0;
+    }
+    .people_hedder h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+    .people_wrapper {
+        padding-top: 50px;
+        padding-bottom: 30px;
+        margin: 0px 5px;
+    }
+    .people_content p {
+        font-size: 14px;
+        line-height: 24px;
+        padding: 0 15px;
+        margin-bottom: 24px;
+    }
+    .people_img {
+        width: 100px;
+        height: 100px;
+        left: 50%;
+        transform: translate(-50%,-55%);
+    }
+    .people_footer h5 {
+        font-size: 20px;
+    }
+    .people_footer p {
+        font-size: 14px;
+        line-height: 0;
+        margin-top: 21px;
+    }
+    /* people part end */
+    /* like part start */
+    .like_hedder h2 {
+        font-size: 30px;
+    }
+    .like_right_hedder ul {
+        justify-content: space-between;
+        column-gap: 0;
+    }
+    .like_right_hedder ul a {
+        font-size: 13px;
+    }
+    .like_right_content p {
+        font-size: 30px;
+        line-height: 41px;
+    }
+    /* like part end */
+
+    /* footer part start */
+    .footer_left_content p {
+        font-size: 16px;
+        line-height: 26px;
+        padding-right: 0;
+        margin-bottom: 40px;
+    }
+    .footer_right_hedder h6 {
+        font-size: 20px;
+        margin-bottom: 40px;
+    }
+    .footer_right_content li {
+        margin-bottom: 17px;
+    }
+    .footer_right_content a {
+        font-size: 14px;
+    }
+    .copyright p {
+        font-size: 13px;
+    }
+    /* footer part end */
+}
